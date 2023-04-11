@@ -1,9 +1,1 @@
-﻿  Assembling VecCalc.asm...
-VecCalc.asm(1): error A2013: .MODEL must precede this directive
-VecCalc.asm(3): error A2034: must be in segment block : SIMD_ADD_ALIGN
-VecCalc.asm(5): error A2034: must be in segment block
-VecCalc.asm(6): error A2034: must be in segment block
-VecCalc.asm(7): error A2034: must be in segment block
-VecCalc.asm(8): error A2034: must be in segment block
-VecCalc.asm(10): fatal error A1010: unmatched block nesting : SIMD_ADD_ALIGN
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Release\VecCalc.obj" /W3 /errorReport:prompt  /TaVecCalc.asm" exited with code 1.
+﻿  SIMDTry.vcxproj -> C:\Users\uefi\Documents\SIMDTry\Release\SIMDTry.exe

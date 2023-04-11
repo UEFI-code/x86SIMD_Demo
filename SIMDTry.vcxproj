@@ -144,7 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <MASM Include="VecCalc.asm">
-      <FileType>Document</FileType>
+      <FileType>Text</FileType>
     </MASM>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
